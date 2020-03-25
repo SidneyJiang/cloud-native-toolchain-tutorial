@@ -1,6 +1,6 @@
 # Garage Method tutorial with Cloud Foundry
 
-[DevOps](https://en.wikipedia.org/wiki/DevOps) is a methodology that aims to improve development and operational efficiencies while enhancing partnership with customers. DevOps is more than doing the same things faster; it establishes a delivery pipeline that spans from ideation to monitoring.  
+[DevOps](https://en.wikipedia.org/wiki/DevOps) is a methodology that aims to improve development and operational efficiencies while enhancing partnership with customers. DevOps is more than doing the same things faster; it establishes a delivery pipeline that spans from ideation to monitoring.  123
 
 To start working from a DevOps approach, use the DevOps Tutorial Toolchain. You'll get a DevOps toolchain in [IBM&reg; Bluemix&trade; Continuous Delivery](https://console.bluemix.net/devops) that is built by using best of breed tools, deployed to [IBM Bluemix](https://bluemix.net), and has the foundation for test, scalability, and operations.
 
